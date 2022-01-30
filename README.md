@@ -28,14 +28,14 @@
 let isim = "Enes";
 let kullanici_adi = ["Midordas","Kristywen"];
 let site = "www.midordas.xyz";
-let sehri = "İzmir";
+let favori_animeleri = ["Naruto","Full metal alchemists","Fumetsu no anata e"];
 
-console.log(isim+"\n"+kullanici_adi+"\n"+site+"\n"+sehir);
+console.log(isim+"\n"+kullanici_adi+"\n"+site+"\n"+favori_animeleri);
 
 Çıktı:
 
 İsim : Enes
 Kullanıcı Adı : Midordas & Kristywen
 Site : www.midordas.xyz
-Şehir: İzmir
+Favori Animeleri : Naruto, Full metal alchemists, Fumetsu no anata e
 ```
